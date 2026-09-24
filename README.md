@@ -20,7 +20,7 @@ Open `Config.csproj` in Visual Studio 2015 or later (ToolsVersion 14.0). There i
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VaderConsulting.Config`. Assembly title/product `DR Planning Config`; copyright `Copyright ©  2015`; company empty. Namespace `DR_Planning_Config`. Folder name on disk is `VaderConsulting.Config`.
+Working copy from my Historical Dev folder `VaderConsulting.Config`. Assembly title/product `DR Planning Config`; copyright `Copyright ©  2015`; company empty. Namespace `DR_Planning_Config`. Folder name on disk is `VaderConsulting.Config`.
 
 ## License
 
